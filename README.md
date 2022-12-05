@@ -32,3 +32,10 @@ custmizado para a gestão de conteúdo.
 
 **Back-end:** PHP, MySQL
 
+
+## Autores
+
+- [@Luan Santos](https://luansantos.dev)
+- [@Agência Iberika](https://iberiika.com.br)
+
+
