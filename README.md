@@ -7,6 +7,7 @@
 Site desenvolvido para a rede de creches para cachorros GigaPet. O site conta com um CMS 
 custmizado para a gestão de conteúdo.
 
+Projeto Privado (Sem código fonte)
 
 ## Funcionalidades
 
